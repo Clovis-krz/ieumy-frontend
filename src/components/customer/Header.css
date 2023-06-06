@@ -1,0 +1,45 @@
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #f7f8f3;
+  }
+  
+  .topnav logonav {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 28px 32px;
+    text-decoration: none;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: right;
+    display: block;
+    color: #002c3e;
+    text-align: center;
+    padding: 28px 32px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+.Logo {
+    /*background-image: url(../assets/ieumy-logo-w-icon.png);
+    max-width: 300px;
+    padding-top: 0.5%;
+    padding-left: 1%;
+    padding-right: 20%;*/
+    max-width: 100px;
+    
+}
+
+.Menu-customer{
+  float: right;
+  display: block;
+
+}

@@ -1,0 +1,11 @@
+/* Style the footer */
+.footer {
+    background-color: #78bcc4;
+    padding: 10px;
+    text-align: center;
+    position:relative;
+}
+
+.credits {
+    color: #ffffff;
+}

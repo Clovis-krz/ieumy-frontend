@@ -1,0 +1,130 @@
+{
+    "name": "Bouillon Chartier",
+    "description": "",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/70/b2/bd/bouillon-chartier-montparnasse.jpg",
+    "table": 98,
+    "categories": {
+      "Entrées": [
+        {
+          "id": 0,
+          "name": "Oeuf mimosa",
+          "description": "magnifique oeuf mimosa cuisiné par un vrai chef",
+          "variations": [],
+          "image": "https://assets.afcdn.com/recipe/20130924/17648_w1024h768c1cx1328cy1928.jpg",
+          "price": 4
+        }
+      ],
+      "Plats": [
+        {
+          "id": 1,
+          "name": "cocq au vin",
+          "description": "magnifique coq au vin cuisiné par un vrai chef",
+          "variations": [],
+          "image": "https://www.expatica.com/app/uploads/sites/5/2014/05/coq-au-vin-1.jpg",
+          "price": 15
+        },
+        {
+          "id": 2,
+          "name": "soupe à l'oignon",
+          "description": "magnifique soupe à l'oignon cuisiné par un vrai chef",
+          "variations": [],
+          "image": "https://www.expatica.com/app/uploads/sites/5/2014/05/french-onion-soup.jpg",
+          "price": 12
+        },
+        {
+          "id": 3,
+          "name": "Steak frites",
+          "description": "magnifique steak frites cuisiné par un vrai chef",
+          "variations": [
+            {
+              "name": "frites de pomme de terre",
+              "price_delta": 0
+            },
+            {
+              "name": "frites de patates douces",
+              "price_delta": 2
+            }
+          ],
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Reel_and_Brand_-_September_2021_-_Sarah_Stierch_05.jpg/1280px-Reel_and_Brand_-_September_2021_-_Sarah_Stierch_05.jpg",
+          "price": 12
+        },
+        {
+          "id": 4,
+          "name": "Saucisse au couteau",
+          "description": "magnifique saucisse au couteau avec purée cuisiné par un vrai chef",
+          "variations": [
+            {
+              "name": "purée",
+              "price_delta": 0
+            },
+            {
+              "name": "frites",
+              "price_delta": 1
+            }
+          ],
+          "image": "https://www.foodette.fr/files/products/saucisse_puree_foodette_bo-721x524.jpg",
+          "price": 9
+        },
+        {
+          "id": 5,
+          "name": "Spaghetti bolognaise",
+          "variations": [],
+          "description": "magnifique spaghetti bolognaise cuisiné par un vrai chefmagnifique spaghetti bolognaise cuisiné par un vrai chefmagnifique spaghetti bolognaise cuisiné par un vrai chefmagnifique spaghetti bolognaise cuisiné par un vrai chefmagnifique spaghetti bolognaise cuisiné par un vrai chefmagnifique spaghetti bolognaise cuisiné par un vrai chefmagnifique spaghetti bolognaise cuisiné par un vrai chefmagnifique spaghetti bolognaise cuisiné par un vrai chefmagnifique spaghetti bolognaise cuisiné par un vrai chefmagnifique spaghetti bolognaise cuisiné par un vrai chefmagnifique spaghetti bolognaise cuisiné par un vrai chef",
+          "image": "https://cdn.pratico-pratiques.com/app/uploads/sites/4/2018/08/30171718/spaghettis-alla-bolognese.jpeg",
+          "price": 7
+        },
+        {
+          "id": 6,
+          "name": "Boeuf bourguignon",
+          "description": "magnifique Boeuf bourguignon cuisiné par un vrai chef",
+          "variations": [],
+          "image": "https://img.cuisineaz.com/660x660/2013/12/20/i73725-boeuf-bourguignon.jpg",
+          "price": 17
+        }
+      ],
+      "Desserts": [
+        {
+          "id": 7,
+          "name": "Choux chantilly",
+          "description": "magnifique choux chantilly préparé par un vrai chef",
+          "variations": [
+            {
+              "name": "sans suppléments",
+              "price_delta": 0
+            },
+            {
+              "name": "nappage choco",
+              "price_delta": 0.5
+            }
+          ],
+          "image": "https://files.meilleurduchef.com/mdc/photo/recette/choux-chantilly/choux-chantilly-1200.jpg",
+          "price": 3
+        },
+        {
+          "id": 8,
+          "name": "Salade de fruits frais",
+          "variations": [],
+          "description": "magnifique salade de fruits frais préparé par un vrai chef",
+          "image": "https://img.cuisineaz.com/660x660/2013/12/20/i26162-salade-de-fruits-d-ete-facile.jpg",
+          "price": 3.5
+        },
+        {
+          "id": 9,
+          "name": "Mousse au chocolat",
+          "variations": [
+            {
+              "name": "sans suppléments",
+              "price_delta": 0
+            },
+            {
+              "name": "+ chantilly",
+              "price_delta": 1
+            }
+          ],
+          "description": "magnifique mousse au chocolat préparé par un vrai chef",
+          "image": "https://img.cuisineaz.com/660x660/2017/06/22/i130302-mousse-au-chocolat-noir-facile.jpeg",
+          "price": 4
+        }
+      ]
+    }
+  }
